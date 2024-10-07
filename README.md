@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vivek-Ray02&label=Profile%20views&color=0e75b6&style=flat" alt="Vivek-Ray02" /> </p>
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Vivek-Ray02/Vivek-Ray02/main/.gif">
 
 - 🔭 I’m currently working on **AI-ML Based Intelligent Dehazing Algorithm**
 
