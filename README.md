@@ -9,6 +9,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Vivek-Ray02/Vivek-Ray02/main/.gif">
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp4eThuYjNuZnpyeHU5MDhlNmd4N3k5a2pxeHR3NmhleXk2YXJ1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
+
 - 🔭 I’m currently working on **AI-ML Based Intelligent Dehazing Algorithm**
 
 - 🌱 I’m currently learning **Advanced Blockchain Specialization**
