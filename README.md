@@ -53,30 +53,12 @@
   <li>🛍️ <a href="https://github.com/Vivek-Ray02/get-flutter-fire">Shopping App using Flutter and Firebase</a></li>
 </ul>
 
-<h3 align="left">Publications:</h3>
-<ul>
-  <li>📄 <a href="https://link-to-your-paper.com">Cryptocurrency Prediction Using ML: A Comprehensive Review</a></li>
-</ul>
-
 <h3 align="left">Certifications:</h3>
 <ul>
   <li>🧠 Google Advanced Data Analytics Specialization</li>
   <li>🔗 Blockchain Specialization</li>
   <li>📱 iOS App Development</li>
   <li>📈 Strategic Management</li>
-</ul>
-
-<h3 align="left">Leadership & Responsibilities:</h3>
-<ul>
-  <li>Vice President - Caarya</li>
-  <li>Jt. Operations Head - KJSCE ACM Student Chapter</li>
-  <li>President - Rotaract Club of Bombay Kandivli</li>
-</ul>
-
-<h3 align="left">Awards & Achievements:</h3>
-<ul>
-  <li>🏆 Best General Body Member - Rotaract Club of Bombay Kandivli</li>
-  <li>🏆 Best Core Team Member - Rotaract Club of Bombay Kandivli</li>
 </ul>
 
 [![An image of @Vivek-Ray02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Vivek-Ray02)](https://holopin.io/@Vivek-Ray02)
