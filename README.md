@@ -1,4 +1,4 @@
-![Coder GIF](https://github.com/Vivek-Ray02/Vivek-Ray02/blob/main/Coder.gif)
+![Coder GIF](https://github.com/Vivek-Ray02/Vivek-Ray02/raw/main/Coder.gif)
 
 
 <h1 align="center">Hi 👋, I'm Vivek Ray</h1>
