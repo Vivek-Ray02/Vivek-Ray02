@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/Vivek-Ray02/your-repo-name/main/Coder.gif">
+<img align="right" alt="Coding" src="https://raw.githubusercontent.com/Vivek-Ray02/Vivek-Ray02/main/Coder.gif">
 
 
 <h1 align="center">Hi 👋, I'm Vivek Ray</h1>
