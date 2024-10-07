@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" src="https://raw.githubusercontent.com/Vivek-Ray02/Vivek-Ray02/main/Coder.gif">
 
 
-<h1 align="center">Hey There!👋, I'm Vivek Ray</h1>
+<h1 align="center">Heyy 👋, I'm Vivek Ray</h1>
 <h3 align="center">Passionate about leveraging Full Stack Development, Machine Learning, and Blockchain technologies to solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vivek-Ray02&label=Profile%20views&color=0e75b6&style=flat" alt="Vivek-Ray02" /> </p>
