@@ -41,8 +41,6 @@
   
 <a><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Vivek-Ray02&theme=dark" /></a><a><img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vivek-Ray02&show_icons=true&count_private=true&theme=tokyonight" alt="Vivek's github stats" /></a>
 
-<a><img width="40%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vivek-Ray02&layout=compact&theme=tokyonight" /></a><a><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-Ray02&theme=react" /></a>
-
 <h3 align="left">Projects:</h3>
 <ul>
   <li>🛠️ <a href="https://github.com/Vivek-Ray02/Dehzing-Algorithm">AI-ML Based Intelligent Dehazing Algorithm</a></li>
