@@ -62,6 +62,9 @@
 <h1 align="center">GitHub Stats </h1>
   
 <a><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Vivek-Ray02&theme=dark" /></a><a><img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vivek-Ray02&show_icons=true&count_private=true&theme=tokyonight" alt="Vivek's github stats" /></a>
+<a><img width="25%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vivek-Ray02&show_icons=true&theme=radical&hide_border=false" /></a>
+<a><img align="center" width="73%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-Ray02&theme=react" /></a>
+<br/>
 
 <h3 align="left">Projects:</h3>
 <ul>
@@ -81,4 +84,4 @@
   <li>📈 Strategic Management</li>
 </ul>
 
-[![An image of @Vivek-Ray02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Vivek-Ray02)](https://holopin.io/@Vivek-Ray02)
+[![An image of @vivekray02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekray02)](https://holopin.io/@vivekray02)
