@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/vivek-ray-0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-ray" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vivek-ray-0212" target="www.linkedin.com/in/vivek-ray-0212"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-ray" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek_ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_ray" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vivek_ray02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivek_ray02" height="30" width="40" /></a>
 </p>
