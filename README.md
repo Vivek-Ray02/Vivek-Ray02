@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [**https://github.com/Vivek-Ray02**](https://github.com/Vivek-Ray02)
 
-- 📫 How to reach me **vivek.ray02@example.com**
+- 📫 How to reach me **vivek02ray@gmail.com**
 
 - ⚡ Fun fact **I'm not just a tech enthusiast, but also a Flutter aficionado and passionate Rotaract leader.**
 
